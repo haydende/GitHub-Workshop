@@ -1,1 +1,1 @@
-<h1>Hello World, this is my *first* git repo!
+<h1>Hello World</h1>, this is my first git repo!
